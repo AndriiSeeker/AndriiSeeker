@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CryptoAnalytics site](https://cryptoanalytics.fly.dev/)
 
-- 🌱 I am eager to study **AI and Data Sience**
+- 🌱 I am eager to study **AI and Data Science**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
